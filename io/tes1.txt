@@ -1,0 +1,2 @@
+JournalDev is a great platform for Java Developers.
+JournalDev is online log of Pankaj Kumar.
